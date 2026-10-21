@@ -4,7 +4,7 @@
 
 ### Portal de oportunidades acadêmicas para a graduação
 
-**[▶ Abrir o protótipo](https://conecta-ufg.github.io)**
+**[▶ Abrir o protótipo](https://conecta-ufg.github.io/conecta-ufg/)**
 
 </div>
 
@@ -36,7 +36,7 @@ Informática da UFG, desenvolvido com o ciclo de vida em estrela.
 | PF4 | Versão final integrada |
 
 Todo o material está em
-**[conecta-ufg.github.io](https://github.com/conecta-ufg/conecta-ufg.github.io)**,
+**[conecta-ufg.github.io](https://github.com/conecta-ufg/conecta-ufg)**,
 organizado por etapa.
 
 ### Equipe
